@@ -1,0 +1,40 @@
+/* Ejemplo de hoja de estilo para el CV */
+.header {
+  background-color:lightgray;
+  text-align: center;
+  padding: 10px;
+}
+
+#izquierda {
+  float: left;
+  width: 50%;
+}
+#derecha {
+  float: right;
+  width: 50%;
+}
+#centro {
+   text-align: center;
+}
+
+
+body {
+   padding: 10px;
+   margin: 5px;
+   border: solid;
+   border-color: darkred;
+   background-color:lightgray;
+}
+
+h2,h3 {
+   padding: 2px;
+   margin: 5px;
+   border: solid;
+   border-color:black;
+   color:darkred;
+   font-family:courier;
+}
+
+li,p {
+   font-family:verdana;
+}
